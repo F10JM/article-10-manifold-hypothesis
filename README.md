@@ -4,7 +4,7 @@
 
 **Course:** Dimension Reduction & Manifold Learning, Universite Paris Dauphine - PSL
 
-**Students:** [FILL IN]
+**Students:** Fadi Jemmali, Yessin Moakher, Belgacem Ben Ziada
 
 ---
 

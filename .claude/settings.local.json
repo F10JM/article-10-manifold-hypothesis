@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(jupyter nbconvert:*)",
+      "Bash(python3:*)",
+      "Bash(/Users/fadijemmali/dimension-reduction/.venv/bin/python:*)"
+    ]
+  }
+}
